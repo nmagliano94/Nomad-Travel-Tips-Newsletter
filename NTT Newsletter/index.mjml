@@ -1,0 +1,47 @@
+<mjml html lang="en">
+  <mj-head>
+    <mj-preview>Experience Tokyo's Nightlife</mj-preview>
+    <mj-title></mj-title>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Arial, sans-serif" />
+      <mj-text font-weight="300" align="center" color="#212121" font-size="14px" line-height="20px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="608px">
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="500"> NOMAD TRAVEL TIPS </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://newyorkled.com/___MMMBlog/wp-content/uploads/2015/02/Lower-Manhattan-Skyline-Panorama-at-Night_art-1.jpg" background-size="cover">
+      <mj-column>
+        <mj-text color="#fff" font-size="40px" line-height="48px"> Experience NYC's<br>Nightlife </mj-text>
+        <mj-button border-radius="8px" background-color="#212121" href="#">FIND OUT IF YOU COULD WIN!</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="22px"> You could win a trip to New York City! </mj-text>
+        <mj-text> The Nomad Travel Tips team have been humbled by the number of members who have pledged and choose to support our website. As a big thank you, we are giving away a trip to Times Square in New York City to one lucky patron!<br><br> If you’re a patron, you don’t have to do anything as it could be you jetting off to New York City! If you’re not a patron, you can become one today and still qualify! Plus, we’ll be having more giveaways for our patrons over the next few months! </mj-text>
+        <mj-button border-radius="8px" background-color="#d50000" color="#fff" href="#">BECOME A PATRON TODAY</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f6f6f6" border-radius="8px">
+      <mj-column>
+        <mj-image border-radius="8px" width="200px" alt="Tokyo Skyline" src="https://cdn.tiqets.com/wordpress/blog/wp-content/uploads/2017/08/03134557/24-hours-in-new-york-1.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px">New York City Travel Tips</mj-text>
+        <mj-text>Travelling to NYC soon? We’ve got you covered with the most popular tips shared by the NTT community.</mj-text>
+        <mj-text><a href="#" style="color:#212121;">Read our New York travel guide</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="10px" line-height="14px">Nomad Travel Tips <br> 86 South Street, West London, W16 7KA<br><br>If you’d prefer not to receive updates, you can <a href="#" style="color:#212121;">unsubscribe.</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
